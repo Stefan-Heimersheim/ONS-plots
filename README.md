@@ -8,4 +8,5 @@ Plotting scripts for visualizing ONS data.
 ![London](https://user-images.githubusercontent.com/40799217/147856758-90d3f990-1b0d-4075-b38e-68e0890a71f4.png)
 
 ## [Old data] Modelled % testing positive for COVID-19 in England, independent of variant (`england_old.py`)
+Note: The data after 16th of December is after the reference data and the ONS file warns that this data might be less accurate.
 ![England_old](https://user-images.githubusercontent.com/40799217/147856824-a05cdbd8-9bc4-4378-a7b7-0e4d7eecef7f.png)
